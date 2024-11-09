@@ -19,7 +19,18 @@ The Machine Monitoring System is a powerful tool designed to track and analyze t
   ![1111](https://github.com/user-attachments/assets/e9a595ae-96d3-4f77-a36d-6c01c53cb271)
 )
  # TechStack
- . Html,Css,JavaScript,Reactjs,Node.js,Expressjs,MongoDb,Numpy,Pandas,Python,Flask,Django.
+ . Html
+ . Css
+ . JavaScript
+ . Reactjs
+ . Node.js
+ . Expressjs,
+ . MongoDb
+ . Numpy
+ . Pandas
+ . Python
+ . Flask
+ . Django.
  
 
 
