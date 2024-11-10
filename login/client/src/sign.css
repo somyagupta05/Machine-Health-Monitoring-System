@@ -1,0 +1,29 @@
+.vh-100 {
+  background-image: url('./images/home_image.png'); /* Update with the path to your image */
+  background-size: cover; /* Cover the whole viewport */
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Don't repeat the image */
+  
+}
+
+/* Optional: To adjust the transparency of the overlay */
+.overlay {
+  background-color: rgba(0, 0, 0, 0.5); /* Black overlay with 50% opacity */
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: -1; /* Place the overlay behind the content */
+ 
+}
+.blur-overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  backdrop-filter: blur(8px); /* Adjust the blur amount as needed */
+  -webkit-backdrop-filter: blur(8px); /* For Safari support */
+  z-index: -1; /* Place the overlay behind the content */
+}

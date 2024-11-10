@@ -1,0 +1,11 @@
+h2{
+ 
+  text-align: center;
+ font-weight: bold;
+ border: solid black;
+
+  /* justify-content: center; */
+}
+.container{
+  margin-top: 80px;
+}
